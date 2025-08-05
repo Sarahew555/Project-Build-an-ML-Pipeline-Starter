@@ -8,7 +8,7 @@ In this project you will build such a pipeline.
 
 W&B Project [Link](https://wandb.ai/sarahew555-western-governors-university/nyc_airbnb).
 
-GitHub Repo [Link](https://github.com/Sarahew555/Project-Build-an-ML-Pipeline-Starter)
+GitHub Repo [Link](https://github.com/Sarahew555/Project-Build-an-ML-Pipeline-Starter).
 
 ## Table of contents
 - [Preliminary steps](#preliminary-steps)
