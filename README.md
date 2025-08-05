@@ -8,7 +8,7 @@ In this project you will build such a pipeline.
 
 Link to W&B Project:
 
-https://wandb.ai/sarahew555-western-governors-university/nyc_airbnb
+[https://wandb.ai/sarahew555-western-governors-university/nyc_airbnb](https://wandb.ai/sarahew555-western-governors-university/nyc_airbnb)
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
